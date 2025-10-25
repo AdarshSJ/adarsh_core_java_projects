@@ -41,6 +41,7 @@ java -cp src com.collections.TestVectorDemo01
 
 ```
 ---
+```
 
 ## Prerequisites
 
@@ -48,6 +49,8 @@ java -cp src com.collections.TestVectorDemo01
 - Java IDE (optional, for easier browsing)
 
 ```
+```
+
 ---
 
 ## Topics Covered
@@ -62,6 +65,8 @@ java -cp src com.collections.TestVectorDemo01
 - Common Java interview problems
 
 ---
+```
+```
 
 ## Author
 
@@ -69,6 +74,8 @@ java -cp src com.collections.TestVectorDemo01
 Java Practitioner and Learner
 
 ---
+```
+```
 
 ## License
 
