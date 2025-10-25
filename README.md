@@ -6,22 +6,23 @@ A comprehensive collection of Core Java practice programs by Adarsh SJ, neatly o
 
 ## Project Structure
 
+```
 src/
-├── com.accessmodifier/ # Examples of access modifiers
-├── com.accessmodifier01/ # Additional access modifier scenarios
-├── com.arrayintroduction/ # Array basics and operations
-├── com.collections/ # List, Set, Map, Vector, etc.
-├── com.constructors/ # Constructor usages and overloading
-├── com.exceptionhandling/ # Try-catch, custom exceptions, throw/throws
-├── com.interviewproblems/ # Common Java interview questions
-├── com.javaintroduction/ # Java language basics
-├── com.langfunda/ # Java language fundamentals
+├── com.accessmodifier/         # Examples of access modifiers
+├── com.accessmodifier01/       # Additional access modifier scenarios
+├── com.arrayintroduction/      # Array basics and operations
+├── com.collections/            # List, Set, Map, Vector, etc.
+├── com.constructors/           # Constructor usages and overloading
+├── com.exceptionhandling/      # Try-catch, custom exceptions, throw/throws
+├── com.interviewproblems/      # Common Java interview questions
+├── com.javaintroduction/       # Java language basics
+├── com.langfunda/              # Java language fundamentals
 ├── com.multiDimensionalArrays/ # Working with 2D and multi-dimensional arrays
-├── com.oops/ # OOP: inheritance, polymorphism, encapsulation, abstraction
-├── com.patterns/ # Patterns (stars, numbers, logic patterns)
+├── com.oops/                   # OOP: inheritance, polymorphism, encapsulation, abstraction
+└── com.patterns/               # Patterns (stars, numbers, logic patterns)
+```
+```
 
-
----
 
 ## How to Run
 
