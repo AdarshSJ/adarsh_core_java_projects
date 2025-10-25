@@ -51,7 +51,7 @@ java -cp src com.collections.TestVectorDemo01
 ```
 ```
 
----
+
 
 ## Topics Covered
 
@@ -64,7 +64,7 @@ java -cp src com.collections.TestVectorDemo01
 - Pattern printing and logic exercises
 - Common Java interview problems
 
----
+
 ```
 ```
 
@@ -73,7 +73,7 @@ java -cp src com.collections.TestVectorDemo01
 **Adarsh S Jange**  
 Java Practitioner and Learner
 
----
+
 ```
 ```
 
@@ -82,4 +82,4 @@ Java Practitioner and Learner
 This repository is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
 
----
+
