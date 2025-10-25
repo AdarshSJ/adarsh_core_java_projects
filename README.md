@@ -39,7 +39,7 @@ git clone https://github.com/AdarshSJ/adarsh_core_java_projects.git
 javac src/com/collections/TestVectorDemo01.java
 java -cp src com.collections.TestVectorDemo01
 
-
+```
 ---
 
 ## Prerequisites
@@ -47,6 +47,7 @@ java -cp src com.collections.TestVectorDemo01
 - **JDK 21** (or compatible version)
 - Java IDE (optional, for easier browsing)
 
+```
 ---
 
 ## Topics Covered
